@@ -1,1 +1,1 @@
-# git 101
+Hi Ronaldo, welcome to Git 101!
